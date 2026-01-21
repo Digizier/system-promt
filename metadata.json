@@ -1,0 +1,5 @@
+{
+  "name": "n8n System Prompt Generator",
+  "description": "A wizard-style application to generate professional System Prompts for n8n AI workflows by analyzing JSON exports and user requirements.",
+  "requestFramePermissions": []
+}
